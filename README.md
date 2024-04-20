@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome! I am a software engineer at [HyperWrite](https://hyperwriteai.com), where we are building LLM-based writing tools. Our projects have included exploring the automation of web tasks using AI agents.
+Welcome! I am a software engineer at [HyperWrite](https://hyperwriteai.com), where we are building LLM-based writing tools. Our projects have included exploring the automation of web tasks using [AI agents](https://venturebeat.com/ai/hyperwrite-unveils-breakthrough-ai-agent-that-can-surf-the-web-like-a-human/).
 
 In my personal projects, I am currently delving into VLMs' (Visual Language Models) capabilities to [operate computers](https://venturebeat.com/ai/the-self-operating-computer-emerges/) and [play games](https://www.yahoo.com/tech/youtuber-pits-chatgpt-against-super-104929439.html). This exploration is part of my broader interest in how AI can interact with and enhance our digital experiences.
 
